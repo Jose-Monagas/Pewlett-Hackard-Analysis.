@@ -18,8 +18,8 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ![retiring titles](screenshots/retiring_titles.png)
 
-- The employees eligible to participate in the mentorship program were 1549 
-- 
+- The employees eligible to participate in the mentorship program were 1549.
+
 ![eligible mentors](screenshots/mentorship_eligibility.png)
 
 ## **Summary**
