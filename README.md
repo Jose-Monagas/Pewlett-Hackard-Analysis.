@@ -6,7 +6,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ## **Results**
 
-- After querying and retrieving the retirement titles table, we noted that there were 133,776 rows affected. However, this table contains duplicate entries because some employees have obtained promotions and switched titles over the year. 
+- After querying and retrieving the retirement titles table, we noted that there were 133,776 rows affected. However, this table contains duplicate entries because some employees have obtained promotions and switched titles over the years. 
   
  ![titles](screenshots/titles.png)
 
